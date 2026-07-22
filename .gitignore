@@ -19,7 +19,8 @@ htmlcov/
 .mypy_cache/
 .ruff_cache/
 
-# IDE / OS
+# IDE / OS / editor tooling
+.cursor/
 .idea/
 .vscode/
 *.swp

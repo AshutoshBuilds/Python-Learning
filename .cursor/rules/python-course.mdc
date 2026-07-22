@@ -1,6 +1,0 @@
-# Python Course workspace rules
-
-- Prefer editing existing lesson files in place over creating parallel copies.
-- Keep lesson numbering (`01_` … `38_`) stable; renames break the learning path.
-- Do not commit secrets (`.env`, credentials, API keys).
-- Sample data for lessons belongs under `data/`.
