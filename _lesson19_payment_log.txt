@@ -1,0 +1,5 @@
+PAYMENT LOG
+========================================
+2026-02-01 | INV-1001 | Sharma Traders | Rs 5,400
+2026-02-03 | INV-1002 | Patel Retail   | Rs 8,200
+2026-02-05 | INV-1003 | Gupta & Co     | Rs 5,900

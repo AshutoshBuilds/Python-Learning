@@ -1,0 +1,13 @@
+date,category,vendor,amount,payment_mode,notes
+2026-01-03,Rent,City Plaza Pvt Ltd,25000,NEFT,Shop rent January
+2026-01-05,Utilities,MSEB,3200,UPI,Electricity bill
+2026-01-07,Salaries,Staff Payroll,48000,NEFT,Monthly salaries
+2026-01-10,Inventory,Wholesale Hub,18500,Cheque,Stock purchase
+2026-01-14,Marketing,Local Print,2500,Cash,Flyers
+2026-01-20,Transport,Blue Dart,1800,UPI,Courier charges
+2026-01-28,Tax,GST Portal,4200,NetBanking,GST payment
+2026-02-03,Rent,City Plaza Pvt Ltd,25000,NEFT,Shop rent February
+2026-02-06,Utilities,MSEB,2950,UPI,Electricity bill
+2026-02-08,Inventory,Wholesale Hub,22100,NEFT,Stock purchase
+2026-02-12,Bank Charges,HDFC Bank,350,AutoDebit,Account fees
+2026-02-18,Professional Fees,CA Sharma,7500,NEFT,Audit support

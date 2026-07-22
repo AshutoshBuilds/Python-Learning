@@ -1,0 +1,13 @@
+﻿# Cursor ignore — keep agent context focused on course source
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+*.log

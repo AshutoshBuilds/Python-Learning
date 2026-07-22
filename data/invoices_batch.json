@@ -1,0 +1,54 @@
+[
+  {
+    "invoice_id": "INV-1001",
+    "date": "2026-01-05",
+    "customer": {
+      "name": "Sharma Traders",
+      "gstin": "27AABCS1234F1Z5",
+      "email": "accounts@sharmatraders.com"
+    },
+    "lines": [
+      {
+        "sku": "SKU-001",
+        "description": "Ledger Book",
+        "qty": 10,
+        "unit_price": 120.0,
+        "gst_rate": 0.12
+      },
+      {
+        "sku": "SKU-002",
+        "description": "Pen Box",
+        "qty": 5,
+        "unit_price": 80.0,
+        "gst_rate": 0.12
+      }
+    ],
+    "currency": "INR"
+  },
+  {
+    "invoice_id": "INV-1002",
+    "date": "2026-01-05",
+    "customer": {
+      "name": "Sharma Traders",
+      "gstin": "27AABCS1234F1Z5",
+      "email": "accounts@sharmatraders.com"
+    },
+    "lines": [
+      {
+        "sku": "SKU-001",
+        "description": "Ledger Book",
+        "qty": 10,
+        "unit_price": 120.0,
+        "gst_rate": 0.12
+      },
+      {
+        "sku": "SKU-002",
+        "description": "Pen Box",
+        "qty": 5,
+        "unit_price": 80.0,
+        "gst_rate": 0.12
+      }
+    ],
+    "currency": "INR"
+  }
+]

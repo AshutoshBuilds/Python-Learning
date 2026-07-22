@@ -1,0 +1,15 @@
+{
+  "invoice_id": "INV-MINI",
+  "customer": {
+    "name": "Patel Retail"
+  },
+  "lines": [
+    {
+      "sku": "SKU-RICE",
+      "description": "Rice 5kg",
+      "qty": 4,
+      "unit_price": 350.0,
+      "gst_rate": 0.05
+    }
+  ]
+}

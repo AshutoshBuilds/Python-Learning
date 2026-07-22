@@ -1,0 +1,3 @@
+AUDIT TRAIL
+Processed 12 rows from sample_sales.csv
+Grand total Rs 44,005.16
